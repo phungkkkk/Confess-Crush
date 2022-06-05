@@ -10,7 +10,7 @@ const CONFIG = {
     desc: 'Để tính tới tương like ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao tớ chỉ muốn cậu được vui <3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao tớ chỉ muốn cậu được vui thôi <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Vui thì vui mà không vui thì cũng đừng có buồn <33333333',
     mess: 'Mình biết mà 🥰. chỉ muốn cậu vui vẻ thôiiiii😘😘',
